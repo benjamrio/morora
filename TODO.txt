@@ -1,0 +1,4 @@
+script running everyday at a certain time
+different msg first/other occ
+different msg user/rats
+use the same window for different msg !!
